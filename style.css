@@ -521,7 +521,6 @@ body::-webkit-scrollbar, .home-features-container::-webkit-scrollbar, .home-gall
   padding: var(--dl-space-space-unit);
   align-items: flex-start;
   flex-direction: column;
-  background-color: rgba(255, 255, 255, 0.1);
 }
 .home-text15 {
   color: rgb(0, 0, 0);
