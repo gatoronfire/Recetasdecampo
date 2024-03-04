@@ -50,7 +50,7 @@ body::-webkit-scrollbar, .home-features-container::-webkit-scrollbar, .home-gall
   z-index: 99;
   background-size: cover;
   background-color: transparent;
-  background-image: url("public/external/010735144-baker-hands-kneading-dough-flo.mp4");
+  background-image: url("files/external/010735144-baker-hands-kneading-dough-flo.mp4");
 }
 .home-container02 {
   gap: var(--dl-space-space-oneandhalfunits);
@@ -117,7 +117,7 @@ body::-webkit-scrollbar, .home-features-container::-webkit-scrollbar, .home-gall
   opacity: 0.5;
   position: absolute;
   background-size: cover;
-  background-image: url("public/external/background.svg");
+  background-image: url("files/external/background.svg");
 }
 .home-features-container {
   height: 100%;

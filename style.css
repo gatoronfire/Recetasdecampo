@@ -3,7 +3,7 @@
   font-style: normal;
   font-format: truetype;
   font-weight: 400;
-  src: url("public/fonts/broking-regular.ttf") ;
+  src: url("files/fonts/broking-regular.ttf") ;
 }
 :root {
   --dl-color-gray-500: #595959;
